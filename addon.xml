@@ -6,12 +6,12 @@
         <extension point="xbmc.addon.repository" name="Destroyed TV repository">
             <info compressed="false">https://github.com/Toofaces2/destroyestv/master/addon.xml</info>
             <checksum>http:https://github.com/Toofaces2/destroyestv/master/addon.xml.md5</checksum>
-            <datadir zip="true">http://trvod.me/repo/</datadir>
+            <datadir zip="true">https://drive.google.com/uc?export=download&confirm=QVVX&id=15mvdym02tM0h0Q_rYhrsL16KV_S3lP2n</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
-            <summary>Based on enigma2 plugin TURKvod. Support: www.turk-dreamworld.com</summary>
-            <description>Based on enigma2 plugin TURKvod. Support: www.turk-dreamworld.com</description>
+            <summary>Bereitgestellt von: Fatih</summary>
+            <description>Destroyed TV</description>
             <platform>all</platform>
     </extension>
 </addon>
